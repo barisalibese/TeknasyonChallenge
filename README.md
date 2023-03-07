@@ -65,4 +65,9 @@ Device register isteğinden gelen token'ı diğer isteklerde Header'a Client-Tok
    {
    }
 ```
-  
+
+## Database Şeması
+
+![DB Şema](Diagram%201.jpg)
+
+- [@DB Sql File](teknasyon.sql) Bu Link altında bulabilirsiniz.
